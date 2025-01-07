@@ -15,7 +15,6 @@ pm_to_blib
 MANIFEST.bak
 Build
 Build.bat
-META.*
 MYMETA.*
 .build/
 _build/
@@ -58,10 +57,6 @@ local_config.yml
 MYMETA.*
 Build
 Build.bat
-
-# CPAN-generated files
-META.yml
-META.json
 
 # Generated POD or documentation
 *.pod
